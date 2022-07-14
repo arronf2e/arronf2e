@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JavaScript、Vuejs、Reactjs、Webpack、TypeScript、Nestjs... anything about JavaScript
+- 🌱 I’m currently learning JavaScript、Vuejs、Reactjs、Webpack、TypeScript、NestJS... anything about JavaScript
 - 📫 How to reach me: arronf2e@163.com
 
 ## Status
