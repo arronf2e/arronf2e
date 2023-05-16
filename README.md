@@ -4,6 +4,4 @@
 - 📫 How to reach me: arronf2e@163.com
 
 ## Status
-
-![arronf2e's github stats](https://github-readme-stats.vercel.app/api?username=jsgo&show_icons=true&theme=shades-of-purple&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsgo&hide=html,css&layout=compact&theme=shades-of-purple)](https://github.com/boussadjra/boussadjra)
+[![arronf2e's github stats](https://github-readme-stats.vercel.app/api?username=arronf2e&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true")](https://github.com/anuraghazra/github-readme-stats)
